@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1, h4, h3, a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: blue;
+}
+ul, ol{
+    font-style: italic;;
+}
